@@ -1,6 +1,6 @@
 # CIMCORR Backoffice
-Making attractive and usable readme's. 
-This is a short description about the content of my proyect. This text have to be simple and explicit.
+Contiene módulos de gestión administrativa.
+
 
 ## Content
 This proyect has two branches: develop1 and develop2. **develop1** contains the tests of the repositories and **develop2** contains the test of the use cases.
